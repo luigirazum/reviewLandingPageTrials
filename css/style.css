@@ -8,10 +8,9 @@
 }
 
 @media (max-width: 1200px) {
-    #header {
-      width: 100%;
-      display: flex;
-      flex-wrap: wrap;
-    }
-
+  #header {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
   }
+}
